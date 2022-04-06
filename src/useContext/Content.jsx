@@ -3,7 +3,6 @@ import Paragraph from "./Paragraph";
 return (
     <div>
         <Paragraph 
-        
         ></Paragraph>
     </div>
 )
