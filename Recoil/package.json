@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "recoil": "^0.7.3-alpha.1",
+    "uuid": "^8.3.2"
+  }
+}
